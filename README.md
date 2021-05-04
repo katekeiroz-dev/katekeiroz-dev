@@ -1,7 +1,37 @@
-- 👋 
-Hi , my name Kate Keiroz .Helping and positively impacting people's lives through technology is a life goal for me . In 2019 I got to know the universe of programming/coding, and since then I have been trilitating my professional life along this path, first moment as an self taught and then I have decided to enter a university to improve my knowledge. So at the moment I am graduating in internet systems development.I'm interested in Front-end and mobile iOS field. 
+*******************
 
-✉️ katekeiroz@gmail.com
+### Hi there 👋🏼
+
+#### About me 👩🏻
+
+- Brazillian , living in Ireland
+- Bachelor degree student in Technology of internet systems development.
+- Frontend web developer , skilled in developing functional, responsive and effective platforms.
+- Constructive personality , constantly learning with open mind for emerging technologies.
+- Passionate about solving problems using programming.
+
+#### Skills 💻
+- HTML, CSS, JavaScript  
+- Typescript 
+- jQuery , Angular, ReactJs, Redux, Sass, bootstrap 4 .
+- Version Control System ( Git, GitHub) 
+- C++ , PHP 
+#### Learning 📚
+- Python
+- Mobile development ( react native, flutter )
+************************
+
+### Reach me out
+
+
+
+
+
+
+
+- Thanks for visiting.
+
+Enjoy it!! o/
 
 
 
