@@ -21,15 +21,13 @@
 - Mobile development ( react native, flutter )
 ************************
 
-### Reach me out
+### Reach me out ✔️
+
+> https://beacons.page/katekeiroz
 
 
 
-
-
-
-
-- Thanks for visiting.
+Thanks for visiting.
 
 Enjoy it!! o/
 
