@@ -1,15 +1,13 @@
-*******************
+
 
 ### Hi there 👋🏼
-
+*******************
 #### About me 👩🏻
-
 - Brazillian , living in Ireland
 - Bachelor degree student in Technology of internet systems development.
 - Frontend web developer , skilled in developing functional, responsive and effective platforms.
 - Constructive personality , constantly learning with open mind for emerging technologies.
 - Passionate about solving problems using programming.
-
 #### Skills 💻
 - HTML, CSS, JavaScript  
 - Typescript 
@@ -19,12 +17,11 @@
 #### Learning 📚
 - Python
 - Mobile development ( react native, flutter )
-************************
 
 ### Reach me out ✔️
 
 > https://beacons.page/katekeiroz
-
+************************
 
 
 Thanks for visiting.
