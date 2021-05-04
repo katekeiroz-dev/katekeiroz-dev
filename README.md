@@ -22,7 +22,7 @@
    - https://beacons.page/katekeiroz
 ************************
 
-### Thanks for visiting o/
+### Thanks for visiting !
 
 
 
