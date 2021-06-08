@@ -10,11 +10,11 @@
    - Passionate about solving problems using programming.
 
 
-- ### Reach me out ✔️
+- #### Reach me out ✔️
    - https://beacons.page/katekeiroz
 ************************
 
-### Thanks for visiting !
+#### Thanks for visiting !
 
 
 
