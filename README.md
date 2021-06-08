@@ -1,6 +1,6 @@
 
 
-### Hi there 👋🏼
+### Hi there 👋🏼 It's Kate Keiroz
 *******************
 - #### About me 👩🏻
    - Brazillian , living in Ireland
