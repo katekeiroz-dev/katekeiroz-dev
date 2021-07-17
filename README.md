@@ -1,10 +1,6 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, It's Kate Keiroz,</b>
 <br>
 
-![Group 4](https://user-images.githubusercontent.com/81806904/126050271-082d9976-00b1-48f7-9a60-d02e70302f2d.png)
-
-
-<br><br>
 
   ### I'm Kate Frontend developer from Brazil based in <br><b>Waterford, Ireland</b>.
    <br>
