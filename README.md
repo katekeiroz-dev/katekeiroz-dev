@@ -1,9 +1,12 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, It's Kate Keiroz,</b>
 <br>
 
-![Group 3](https://user-images.githubusercontent.com/81806904/126049396-5053d6d8-85cd-400f-938f-bc905521e687.jpg)<br><br>
+![Group 4](https://user-images.githubusercontent.com/81806904/126050271-082d9976-00b1-48f7-9a60-d02e70302f2d.png)
 
-  #### I'm Kate Frontend developer from Brazil based in <br><b>Waterford, Ireland</b>.
+
+<br><br>
+
+  ### I'm Kate Frontend developer from Brazil based in <br><b>Waterford, Ireland</b>.
    <br>
     
   💡 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.<br>
@@ -13,7 +16,7 @@
 </p>
 <br>
 
-## 👩🏻‍💻 Slack/ tools
+### 👩🏻‍💻 Slack/ tools
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   
@@ -42,7 +45,7 @@
   
 </p>
 
-<h2>🌎 &nbsp;Reach me out</h2>
+### Reach me out
 <p>
   <a href="https://codepen.io/katekeiroz-dev" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/katekeiroz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
