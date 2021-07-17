@@ -42,7 +42,7 @@
   
 </p>
 
-###📌 Reach me out
+### 📌 Reach me out
 <p>
   <a href="https://codepen.io/katekeiroz-dev" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/katekeiroz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
