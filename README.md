@@ -2,7 +2,7 @@
 <br>
 
 
-  ### I'm Kate Frontend developer from Brazil based in <br><b>Waterford, Ireland</b>.
+  ### I'm Kate Front-end developer from Brazil based in <br><b>Waterford, Ireland</b>.
    <br>
     
   💡 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.<br>
