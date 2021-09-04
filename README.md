@@ -2,7 +2,7 @@
 <br>
 
 
-  ### I'm Kate Junior Full stack developer based in <br><b>Waterford, Ireland</b>.
+  ### I'm Kate Software Developer based in <br><b>Waterford, Ireland</b>.
    <br>
     
   💡 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.<br>
