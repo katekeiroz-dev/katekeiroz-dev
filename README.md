@@ -2,13 +2,14 @@
 <br>
 
 
-  ### I'm Kate Keiroz Software Developer based in <br><b>Waterford, Ireland</b>.
+  ### I'm Kate Keiroz.
    <br>
     
   💡 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.<br>
-  🌱 &nbsp;I'm on track for learning more about  Software development  .\
-  👩🏻‍🎓 &nbsp;Bachelor degree student in Systems Analysis and Development. <br>
-  💬 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.
+  🌱 &nbsp;I'm on track for learning more about  Machine Learning and AI  .\
+  👩🏻‍🎓 &nbsp;Bachelor degree student in Systems Analysis and Development.
+Postgraduate degree student in Data analytics <br>
+  💬 &nbsp; Passionate by the power of the data analysis for building insightful things which can impact society and people's lives.
 </p>
 <br>
 
