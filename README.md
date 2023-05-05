@@ -7,7 +7,7 @@
     
   💡 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.<br>
   🌱 &nbsp;I'm on track for learning more about  Machine Learning and AI  .\
-  👩🏻‍🎓 &nbsp;Postgraduate degree student in Data analytics <br>
+  👩🏻‍🎓 &nbsp;Postgraduate degree student in Software development  <br>
   💬 &nbsp; Passionate by the power of the data analysis for building insightful things which can impact society and people's lives.
 </p>
 <br>
