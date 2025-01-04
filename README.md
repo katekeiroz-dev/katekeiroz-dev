@@ -2,7 +2,7 @@
 <br>
 
 
-  ### I'm Kate Keiroz.
+  ### I'm Kate Queiroz.
    <br>
     
   💡 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.<br>
