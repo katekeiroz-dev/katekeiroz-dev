@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  📚 Student in Higher Diploma in Computer Science
+  📚 Higher Diploma in Computer Science
 </p>
 
 <p align="left">
