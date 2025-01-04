@@ -28,9 +28,9 @@
 </p>
 
 <p align="left">
-  <a href="href=mailto:“katekeiroz@gmail.com” title="Gmail">
+  <a href=mailto:“katekeiroz@gmail.com” title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt=""/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/katekeiroz/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   
 </p>
