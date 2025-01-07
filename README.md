@@ -2,7 +2,7 @@
 <br>
 
 
-  ### I'm Kate Queiroz.
+  ### I'm Kate Queiroz 
    
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
@@ -11,7 +11,7 @@
     <br>
 
   🙋🏽‍♀️ &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.<br>
-  💬 &nbsp; Passionate by the power of techonology for building insightful things which can impact society and people's lives.
+  💬 &nbsp; Passionate by the power of techonology for building insightful things which can impact society and people's lives . 
 </p>
 <br>
 
