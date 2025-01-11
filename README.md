@@ -16,7 +16,8 @@
 <br>
 
 <p align="left">
-  🦄 Frontend Developer 
+  🦄 my aspiration for technology, development of  web applications , mobile apps , and everything 
+in between .
 </p>
 
 <p align="left">
