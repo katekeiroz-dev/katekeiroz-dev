@@ -16,7 +16,7 @@
 <br>
 
 <p align="left">
-  🦄 my aspiration for technology, development of  web applications , mobile apps , and everything 
+  🦄 in love for technology, development of  web applications , mobile apps , and everything 
 in between .
 </p>
 
