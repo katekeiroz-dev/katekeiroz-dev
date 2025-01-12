@@ -24,6 +24,8 @@ in between .
   📚 Higher Diploma in Computer Science
 </p>
 
+<quote> " - Do one thing every day that scares you. -Eleanor Roosevelt"  </quote>
+
 <p align="left">
   💌 Get in touch: &#x2935;
 </p>
