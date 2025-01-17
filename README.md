@@ -16,8 +16,7 @@
 <br>
 
 <p align="left">
-  🦄 in love for technology, development of  web applications , mobile apps , and everything 
-in between .
+  🦄 Inspired by developing  web applications , mobile apps , and everything in between. 
 </p>
 
 <p align="left">
