@@ -14,17 +14,26 @@
   👩🏽‍💻 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.<br>
   💬 &nbsp; Passionate by the power of techonology for building insightful things which can impact society and people's lives . 
 </p>
-<br>
-
 <p align="left">
-  🦄 Inspired by developing  web applications , mobile apps , and everything in between. 
+  🦄 Inspired by developing web applications , mobile apps , and everything in between. 
 </p>
 
 <p align="left">
   📚 Higher Diploma in Computer Science
 </p>
+ <br>
 
-<quote> " - Do one thing every day that scares you. -Eleanor Roosevelt"  </quote>
+<br>
+
+ > " - Do one thing every day that scares you. -Eleanor Roosevelt" 
+ <br>
+
+<br><br>
+❗❗ PLEASE NOTE ...<br>
+<em>here on my GitHub I'm documenting my evolution process.<br>
+So you will find, from finished personal projects to draft studies ones.</em>
+<br><br>
+I hope you enjoy being here. :)
 
 <p align="left">
   💌 Get in touch: &#x2935;
