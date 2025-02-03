@@ -15,7 +15,7 @@
   💬 &nbsp; Passionate by the power of techonology for building insightful things which can impact society and people's lives . 
 </p>
 <p align="left">
-  🦄 Inspired by developing web applications , mobile apps , and everything in between. 
+ 🎯 Inspired by developing web applications , mobile apps , and everything in between. 
 </p>
 
 <p align="left">
