@@ -12,15 +12,17 @@
     <br>
 
   👩🏽‍💻 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.<br>
+  
   💬 &nbsp; Passionate by the power of techonology for building insightful things which can impact society and people's lives . 
+</p>
+<p align="left">
+  📚 Studying Higher Diploma in Computer Science
 </p>
 <p align="left">
  🎯 Inspired by developing web applications , mobile apps , and everything in between. 
 </p>
+⚡ Fun fact: I don't like coffee...yeah...I'm sorry
 
-<p align="left">
-  📚 Higher Diploma in Computer Science
-</p>
  <br>
 
 <br>
