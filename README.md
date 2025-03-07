@@ -27,7 +27,10 @@
 
 <br>
 
- > " - Do one thing every day that scares you. -Eleanor Roosevelt" 
+ > " Beautiful is better than ugly.<br>
+Explicit is better than implicit.<br>
+Simple is better than complex.<br>
+Complex is better than complicated.. -Tim Peters " 
  <br>
 
 <br><br>
