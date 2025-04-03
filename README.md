@@ -44,7 +44,7 @@ So you will find, from finished personal projects to draft studies ones.</em>
 I hope you enjoy being here. :)
 
 <p align="left">
-  💌 Get in touch: &#x2935;
+   Get in touch: &#x2935;
 </p>
 
 <p align="left">
