@@ -24,7 +24,7 @@
 <p align="left">
  🎯 Inspired by solving problems, developing web applications , mobile apps , and everything in between. 
 </p>
-⚡ Fun fact: I don't like coffee...yeah...I'm sorry
+
 
  <br>
 
