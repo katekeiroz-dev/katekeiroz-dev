@@ -22,7 +22,7 @@
 
 </p>
 <p align="left">
- 🎯 Inspired by solving problems, developing web applications , mobile apps , and everything in between. 
+ 🎯 Inspired by solving problems. 
 </p>
 
 
