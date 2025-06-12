@@ -21,8 +21,7 @@
 <p align="left">
 
 </p>
-<p align="left">
- 🎯 Inspired by solving problems
+<p align="left">🔍 Interested in cloud architecture, AI, systems design, and microservices as I continue to grow in the field.
 </p>
 
 
