@@ -22,7 +22,7 @@
 
 </p>
 <p align="left">
- 🎯 Inspired by solving problems. 
+ 🎯 Inspired by solving problems
 </p>
 
 
