@@ -11,7 +11,7 @@
 <p align="left"> 
     <br>
 
-  👩🏽‍💻 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.'
+  👩🏽‍💻 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies-
   <br>
   
   💬 &nbsp; Passionate by the power of techonology for building insightful things which can impact society and people's lives . 
