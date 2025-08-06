@@ -41,7 +41,7 @@ Complex is better than complicated.. -Tim Peters. "
 <em>here on my GitHub I'm documenting my evolution process.<br>
 So you will find, from finished personal projects to draft studies ones.</em>
 <br><br>
-I hope you enjoy being here ! 
+I hope you enjoy being here !  :)
 
 <p align="left">
    Get in touch: &#x2935;
