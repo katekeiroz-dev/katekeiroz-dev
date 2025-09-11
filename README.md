@@ -45,12 +45,5 @@ Complex is better than complicated.. -Tim Peters. "
 
 ---
 
-[![katekeiroz-dev](https://github-readme-stats.vercel.app/api/top-langs/?username=katekeiroz-dev&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-
- 
-<!---
-katekeiroz-dev/katekeiroz-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 .
