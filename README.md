@@ -6,7 +6,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-    <br>
 
   👩🏽‍💻 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.
   <br>
@@ -22,9 +21,6 @@
 <p align="left">🔍 Interested in expand my knowledge in DevOps, cloud architecture, AI, systems design, and microservices as I continue to grow in the field.
 </p>
 
-
- <br>
-
 <br>
 
  > " Beautiful is better than ugly.<br>
@@ -32,8 +28,6 @@ Explicit is better than implicit.<br>
 Simple is better than complex.<br>
 Complex is better than complicated.. -Tim Peters. " 
  <br>
-
-<br><br>
 
 <p align="left">
    Get in touch: &#x2935;
