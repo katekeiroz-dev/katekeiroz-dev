@@ -7,27 +7,6 @@
 
 <p align="left"> 
 
-  👩🏽‍💻 &nbsp;Constructive personality , constantly learning with open mind for emerging technologies.
-  <br>
-  
-  💬 &nbsp; Passionate by the power of techonology for building insightful things which can impact society and people's lives . 
-</p>
-<p align="left">
-  📚 Studying Higher Diploma in Computer Science
-</p>
-<p align="left">
-
-</p>
-<p align="left">🔍 Interested in expand my knowledge in DevOps, cloud architecture, AI, systems design, and microservices as I continue to grow in the field.
-</p>
-
-<br>
-
- > " Beautiful is better than ugly.<br>
-Explicit is better than implicit.<br>
-Simple is better than complex.<br>
-Complex is better than complicated.. -Tim Peters. " 
- <br>
 
 <p align="left">
    Get in touch: &#x2935;
@@ -42,8 +21,6 @@ Complex is better than complicated.. -Tim Peters. "
 </p>
 
 
-
----
 
 
 .
